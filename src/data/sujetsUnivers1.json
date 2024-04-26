@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "libelle": "Sujet N°1",
+        "univers": "Univers 1",
+        "avoirPorteur": true,
+        "porteur": {
+            "id": 1,
+            "externalId": 1,
+            "nom": "Admin",
+            "prenom": "admin",
+            "email": "admin@gmail.com"
+        },
+        "destinataires": [],
+        "questions": [
+            {
+                "id": 1,
+                "external_id": null,
+                "libelle": "Question 1",
+                "type": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "libelle": "Sujet N°3",
+        "univers": "univers1",
+        "avoirPorteur": true,
+        "porteur": {
+            "id": 1,
+            "externalId": 1,
+            "nom": "Admin",
+            "prenom": "admin",
+            "email": "admin@gmail.com"
+        },
+        "destinataires": [],
+        "questions": []
+    },
+    {
+        "id": 5,
+        "libelle": "Sujet N°2",
+        "univers": "Univers1",
+        "avoirPorteur": true,
+        "porteur": {
+            "id": 2,
+            "externalId": 2,
+            "nom": "Draghi",
+            "prenom": "Thomas",
+            "email": "toto@gmail.com"
+        },
+        "destinataires": [],
+        "questions": []
+    }
+]
